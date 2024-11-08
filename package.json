@@ -1,0 +1,29 @@
+{
+  "name": "shadcn-vue-alertdialogdemo",
+  "scripts": {
+    "start": "shadcn-vue add alert-dialog button -y && vite"
+  },
+  "dependencies": {
+    "vue": "latest",
+    "radix-vue": "latest",
+    "@radix-ui/colors": "latest",
+    "clsx": "latest",
+    "class-variance-authority": "latest",
+    "tailwind-merge": "latest",
+    "tailwindcss-animate": "latest",
+    "@radix-icons/vue": "latest",
+    "shadcn-vue": "latest",
+    "typescript": "latest",
+    "vaul-vue": "latest",
+    "vue-sonner": "latest",
+    "@unovis/vue": "latest",
+    "@unovis/ts": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-vue": "latest",
+    "vue-tsc": "latest",
+    "tailwindcss": "latest",
+    "autoprefixer": "latest"
+  }
+}
